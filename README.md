@@ -1,5 +1,8 @@
 # 3D-Tic-Tac-Toe
 
+Original Source
+https://github.com/adamdevigili/3D-Tic-Tac-Toe/tree/master
+
 Compilation/Execution
 ------------
 ```$ cd /whatever/folder/3D-Tic-Tac-Toe/src```
